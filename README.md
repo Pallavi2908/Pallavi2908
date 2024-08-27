@@ -33,7 +33,7 @@ I'm a final-year college student with a passion for backend development and I al
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Pallavi2908/ConvoCloud" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pallavi2908&repo=ConvoCloud&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Pallavi2908/Poke-Quiz" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pallavi2908&repo=Poke-Quiz&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Pallavi2908/ConvoCloud" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pallavi2908&repo=ConvoCloud&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
