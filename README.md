@@ -32,10 +32,4 @@ I'm a final-year college student with a passion for backend development and I al
 
 <a href="https://github.com/Pallavi2908" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi2908&langs_count=10&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Pallavi2908/ConvoCloud" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pallavi2908&repo=ConvoCloud&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Pallavi2908/Backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pallavi2908&repo=Backend&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div>
