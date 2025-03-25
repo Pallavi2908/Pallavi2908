@@ -24,12 +24,4 @@ I'm a final-year college student with a passion for backend development and I al
 
 <p align="left"> <a href="https://www.github.com/Pallavi2908" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/pallavi-sinha29/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Pallavi2908"><img src="https://github-readme-stats.vercel.app/api?username=Pallavi2908&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="Pallavi2908's GitHub stats" /></a>
-
-<a href="https://github.com/Pallavi2908" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi2908&langs_count=10&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
