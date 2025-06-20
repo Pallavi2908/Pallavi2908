@@ -6,12 +6,6 @@ Backend developer
 
 I'm a final-year college student with a passion for backend development and I also occasionally dabble in Figma to work on some designs. from time to time! I’ve been getting my hands dirty with Docker, PHP, Apache, Node.js, Express, SQL, and MongoDB. I'm always looking to learn new stuff and improve my skills. Just a 20-year-old figuring things out one line of code at a time.
 
-* 🌍  I'm based in New Delhi
-* Alternate account : https://github.com/Rero29
-* ✉️  You can contact me at [pallavii.sinha029@gmail.com](mailto:pallavii.sinha029@gmail.com)
-* 🧠  I'm learning react.js and next.js to improve my technical skills
-* 🤝  I'm open to collaborating on fullstack projects
-
 ### Skills
 
 
