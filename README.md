@@ -1,10 +1,10 @@
-Hi 👋 My name is Pallavi Sinha
+Hello there!
 ==============================
 
-Backend developer
+Tech enthusiast - I try to learn techstacks as needed for projects :)
 -----------------
 
-I'm a final-year college student with a passion for backend development and I also occasionally dabble in Figma to work on some designs. from time to time! I’ve been getting my hands dirty with Docker, PHP, Apache, Node.js, Express, SQL, and MongoDB. I'm always looking to learn new stuff and improve my skills. Just a 20-year-old figuring things out one line of code at a time.
+I'm a recent engg graduate with a passion for development and I also occasionally dabble in Figma to work on some designs. from time to time! I’ve been getting my hands dirty with React.js, Docker, Apache, Node.js, Express, SQL, and MongoDB. I'm always looking to learn new stuff and improve my skills. Just a 22-year-old figuring things out one line of code at a time.
 
 ### Skills
 
