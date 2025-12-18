@@ -12,11 +12,12 @@
 <a href="https://linkedin.com/in/pallavi-sinha29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallavi-sinha29" height="30" width="40" /></a>
 
 
-<h3>Tools & Tech:</h3>
-- Node.js, Express.js, Redis, BullMQ, MongoDB, MySQL
-- Docker, Cloudinary, PostmanAPI, Render, Vercel, Netlify
-- LangChain, Mistral7B LLM
-- HTML/CSS/JS, TailwindCSS, Figma
+<h3>Tools & Tech </h3>
+
+-  Node.js, Express.js, Redis, BullMQ, MongoDB, MySQL
+-  Docker, Cloudinary, PostmanAPI, Render, Vercel, Netlify
+-  LangChain, Mistral7B LLM
+-  HTML/CSS/JS, TailwindCSS, Figma
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pallavi2908&show_icons=true&locale=en&layout=compact" alt="pallavi2908" /></p>
 
