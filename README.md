@@ -19,6 +19,3 @@
 -  LangChain, Mistral7B LLM
 -  HTML/CSS/JS, TailwindCSS, Figma
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pallavi2908&show_icons=true&locale=en&layout=compact" alt="pallavi2908" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallavi2908&show_icons=true&locale=en" alt="pallavi2908" /></p>
